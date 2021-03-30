@@ -1,2 +1,4 @@
 # FBLA2021
-my game
+
+This game involves memorizing paths in order to pass complicated invisible mazes. 
+
